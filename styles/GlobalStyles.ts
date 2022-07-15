@@ -22,10 +22,10 @@ export default createGlobalStyle `
       background: var(--primary);
   }
   :root {
-      --primary: #ABC9FF;
-      --secondary: #6E85B7;
-      --search: #898AA6;
-      --white: #FFF;
+      --primary: #EEF2FF;
+      --secondary: #ABC9FF;
+      --search: #6E85B7;
+      --white: #EEF2FF;
       --gray: #7A7A7A;
       --outline: #2F3336;
       --retweet: #00C06B;
